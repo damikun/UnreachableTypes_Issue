@@ -37,8 +37,8 @@ By repo `setup` the error shoud appear since `options.RemoveUnreachableTypes = t
 5) Schema will be loaded
 
 
-![Tux, the Linux mascot](/img/A.png)
-
+Error state
+![Tux, the Linux mascot](/img/B.png)
 
 Reset website data + in network tab disable cache...
- ![Tux, the Linux mascot](/img/B.png)
+ ![Tux, the Linux mascot](/img/C.png)
