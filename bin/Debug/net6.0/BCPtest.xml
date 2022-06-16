@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BCPtest</name>
+    </assembly>
+    <members>
+        <member name="M:BCPTest.DumyMutations.Dummy">
+            <summary>
+            Create new  webhook
+            </summary>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "P:BCPTest.GQL_User.Guid" -->
+        <member name="P:BCPTest.GQL_User.Name">
+            <summary>
+             Name
+            </summary>
+        </member>
+        <member name="P:BCPTest.GQL_User.Email">
+            <summary>
+             Email
+            </summary>
+        </member>
+        <member name="T:BCPTest.Mutation">
+            <summary>
+            Mutation
+            </summary>
+        </member>
+        <member name="T:BCPTest.Query">
+            <summary>
+            Query
+            </summary>
+        </member>
+        <member name="T:BCPTest.SystemQueries">
+            <summary>
+             System Queries
+            </summary>
+        </member>
+        <member name="M:BCPTest.SystemQueries.GetServerDateTime">
+            <summary>
+            Return server current date-time
+            </summary>
+            <returns>DateTime as current date time</returns>
+        </member>
+        <member name="T:BCPTest.UserType">
+            <summary>
+            Graphql UserType
+            </summary>
+        </member>
+    </members>
+</doc>

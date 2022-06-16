@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "C:\\Users\\kunda\\OneDrive\\Dokumenty\\Dev\\BCPtest",
+"MaxTimeoutInSeconds": "120"
+}
+}
